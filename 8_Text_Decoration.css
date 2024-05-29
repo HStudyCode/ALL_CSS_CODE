@@ -1,0 +1,24 @@
+h1{
+    text-align: left;
+    text-decoration: line-through;
+    text-decoration-color: red;
+}
+
+h2{
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-color: green;
+}
+
+h3{
+    text-align: right;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+div{
+    a{
+        text-decoration: none;
+    }
+    text-align:center;
+}

@@ -1,0 +1,19 @@
+#he1 {
+    color: red;
+    font-weight: normal;
+}
+
+#he2 {
+    font-weight: lighter;
+    color: rgb(51, 255, 0);
+}
+
+#he3 {
+    font-weight: bold;
+    color: rgb(0, 183, 255);
+}
+
+#he4 {
+    font-weight: bolder;
+    color: rgb(255, 0, 221);
+}
