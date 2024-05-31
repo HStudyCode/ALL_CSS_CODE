@@ -1,0 +1,32 @@
+*{
+    padding: 1;
+    margin: 0;
+    color:white;
+    
+
+}
+body{
+    background-color: black;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    border: 5px solid white;
+    padding:5px 5px 5px 5px;
+    
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color:#f08804;
+    font-size: 25px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}

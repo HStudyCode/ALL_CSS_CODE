@@ -1,0 +1,31 @@
+body{
+    background-color:gray;
+}
+
+
+h1 {
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    color:coral
+}
+
+#p1 {
+    font-family: sans-serif;
+    font-weight: normal;
+    text-align: left;
+    color:cyan;
+}
+
+#p2 {
+    font-family: Georgia;
+    font-weight: normal;
+    text-align: right;
+    color: magenta;
+}
+
+#p3 {
+    font-family: Georgia;
+    font-weight: normal;
+    color: yellowgreen;
+}

@@ -1,0 +1,61 @@
+#section0 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 0);
+    border-color: rgb(255, 255, 255);
+    border: 3px solid;
+    padding: 4px 4px 4px 4px;
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 450px;
+    right: 0px;
+    margin: auto;
+}
+
+#div0 {
+    height: 100px;
+    width: 100px;
+    background: rgb(0, 0, 255);
+    border-radius: 100%;
+}
+
+
+
+#section1 {
+    width: 100px;
+    height: 336px;
+    background-color: aqua;
+    border-color: brown;
+    border: 3px solid;
+    padding: 4px 4px 4px 4px;
+
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    margin: auto;
+}
+
+#div1 {
+    height: 100px;
+    width: 100px;
+    background: rgb(255, 0, 0);
+    border-radius: 100%;
+}
+
+#div2 {
+    height: 100px;
+    width: 100px;
+    background: rgb(255, 255, 0);
+    border-radius: 100%;
+}
+
+#div3 {
+    height: 100px;
+    width: 100px;
+    background: green;
+    border-radius: 100%;
+}
